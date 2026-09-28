@@ -1,0 +1,22 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# YOLO / training runs
+runs/
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
